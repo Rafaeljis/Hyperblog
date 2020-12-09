@@ -7,3 +7,5 @@ Este r**eadme.md **es solo un ejemplo para el curso de git y github de platzi. p
 ## Creado gracias al curso de platzi
 
 ## incluye ejemplos en windows, linux y mac
+
+## Disponible para todas las edades
