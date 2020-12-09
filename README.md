@@ -4,3 +4,4 @@ Este r**eadme.md **es solo un ejemplo para el curso de git y github de platzi. p
 # atstdgfdggh
 :bowtie:
 
+## Creado gracias al curso de platzi
